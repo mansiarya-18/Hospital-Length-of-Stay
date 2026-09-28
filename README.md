@@ -1,4 +1,4 @@
-# VortexTech AIML Week 3 - Regression & Clustering
+# Hospital Length of Stay Dataset using Regression & Clustering
 
 ## Dataset
 Hospital Length of Stay Dataset (Microsoft), via Kaggle:
@@ -13,7 +13,7 @@ vitals (e.g. glucose + creatinine) affecting stay length are likely nonlinear.
 pick k=3 — inertia drops sharply through k=3, then flattens.
 
 ## Files
-- `vortextech_week3.ipynb` — full notebook, code + markdown explanations
+- `solution.ipynb` — full notebook, code + markdown explanations
 
 ## How to run
 1. Clone repo: `git clone <repo-link>`
